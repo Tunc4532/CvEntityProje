@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1cb643d3de89410eafa99c127c33e5ac" Name="Diagram1">
+        <EntityTypeShape EntityType="DBCVENTİTYModel.tbl_Adres" Width="1.5" PointX="2" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCVENTİTYModel.tbl_Çalışmalarım" Width="1.5" PointX="4.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCVENTİTYModel.tbl_Hakkımda" Width="1.5" PointX="1.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCVENTİTYModel.tbl_İletişim" Width="1.5" PointX="4" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCVENTİTYModel.tbl_Yetenekler" Width="1.5" PointX="6.625" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBCVENTİTYModel.tbl_Admin" Width="1.5" PointX="6.75" PointY="0.5" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
